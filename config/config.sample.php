@@ -83,8 +83,8 @@ $CONFIG = [
 'trusted_domains' =>
    [
     'demo.example.org',
-    'otherdomain.example.org',
-    '10.111.112.113',
+    'sman1cis.ddns.net',
+    '192,168.100.59',
     '[2001:db8::1]'
   ],
 
